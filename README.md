@@ -2,7 +2,7 @@
 randomly generate "when you gonna stop w with the x and y with the z?" sentences but for path to nowhere characters.
 
 # basic info
-the follow sections will discuss how you can lines and images
+the follow sections will discuss how you can add lines and images
 
 ## adding lines 
 if you want to add new phrases to the database, add new members to the arrays in the `ptn.json` file.
@@ -19,7 +19,7 @@ to demonstrate, i will list the steps for adding the line, "study the humanities
     - characters use the `char` key
     - with a character, the line would appear as `{"phrase" : "study the humanities with someone who's lost her sanity", "char" : "raven"}`
 5. save the file
-    - ensure that array members and key-value pairs are properly separated using commas. if not, the entry may be saved improperly
+    - ensure that array members and key-value pairs are properly separated using commas
 
 adding new lines to the `firstPart` array works in the same manner.
 
@@ -35,7 +35,7 @@ to demonstrate, i will list the steps for adding an image of raven given her `ch
 1. download the desired image as a `.png` file
 2. name the image the `char` value
     - the names of the image *must* match the `char` value. if not, the image will not display
-    - in the case, the file will appear as `raven.png`
+    - in this case, the file will appear as `raven.png`
 3. move the image into the `img` folder
 4. test the image
     - randomize the generator to test if the image appears properly 
