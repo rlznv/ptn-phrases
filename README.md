@@ -39,3 +39,7 @@ to demonstrate, i will list the steps for adding an image of raven given her `ch
 3. move the image into the `img` folder
 4. test the image
     - randomize the generator to test if the image appears properly 
+
+# what's next?
+
+might draw portraits of chief and the sinners themselves
