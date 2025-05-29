@@ -2,6 +2,14 @@
 randomly generate "when you gonna stop w with the x and y with the z?" sentences but for path to nowhere characters.
 
 # basic info
+
+## files in the repository
+
+- `img` folder:
+- `ptn.json`: data for the generator
+- `ptn-json.html`: main file
+- `web-copy.html`: main file version for rlznv.github.io
+
 the follow sections will discuss how you can add lines and images
 
 ## adding lines 
